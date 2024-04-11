@@ -1,0 +1,54 @@
+/*@import url(./assets/fonts/young-serif/OFL.txt);*/
+body{
+box-sizing: border-box;
+ font-size: 11px; 
+ margin:auto;
+  background-color: antiquewhite;
+}
+main{
+    background-color:  hsl(0, 0%, 100%);
+    width: 600px;
+margin: auto;
+align-items: start;
+justify-content: right;
+padding: 30px;
+font-size:medium;
+}
+img{
+    min-height: 100px;
+    width: 600px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+h1{
+    align-items: start;
+    font-style:unset;
+}
+#d{
+    background-color: hsl(330, 100%, 98%);
+  line-height: 1.5;
+  border-radius: 10px;
+}
+h3{
+font-size: x-large;
+color: brown;
+}
+ul li{
+    list-style-position: outside;
+    list-style-position: left ;
+    padding-bottom: 1%;
+    row-gap: 5%;
+    white-space: 1px;
+    line-gap-override: 2px;
+}
+h4{
+    padding-top:2px;
+    padding-left: 5%;
+    font-size: large;
+    color: hsl(332, 51%, 32%);
+    padding-bottom: 0%;
+}
+span{
+    color:  brown;
+    font-weight: 700;
+}
